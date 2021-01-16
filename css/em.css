@@ -1,0 +1,95 @@
+h6 {
+	color: rgba(30, 58, 88, 0.85);
+}
+
+.fireworks{
+	max-height: 30px;
+	max-width: 30px;
+}
+
+#rsvp-form select {
+  background-color: #fff;
+}
+
+#rsvp-form option:disabled {
+  color: rgba(255,54,83,0.6);
+}
+
+.img-wrap img{
+	width: 100%;
+	
+}
+
+.sv-label{
+	margin-left: 5px;
+}
+
+.infobox h1{
+	
+}
+.infobox p{
+	font-size: 13px;
+	line-height: 20px;
+	padding-bottom: 0px;
+}
+#map{
+	width: 100%;
+	height: 400px;
+}
+.imgLista {
+	width: 90%;
+}
+.classense {
+	min-height:300px;
+	background:url("../img/classense.jpg") top center;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	position:relative
+}
+.sanruffillo {
+	min-height:300px;
+	background:url("../img/sanruffillo.jpg") center center;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	position:relative
+}
+
+.section-padding-top {
+	padding-top: 40px;
+}
+/*iframe.clicked{
+	pointer-events: auto;
+}*/
+.rsvp-form textarea {
+	padding-left: 68px;
+	padding-top: 15px;
+	resize: none;
+    width: 100%;
+    height: 100px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    border: none;
+}
+.rsvp-form select {
+	margin: 20px 0px 20px 5px;
+	padding: 2px;
+    /*width: 100%;*/
+    height: 100%;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    border: none;
+}
+.rsvp-form select option {
+	padding: 0px;
+	white-space: none;
+}
+.linkFoto {
+	color: #e2aa00;
+    font-size: 1.5em;
+}
